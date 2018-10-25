@@ -1,7 +1,3 @@
-# scr
-
-A Maim/Slop screenshot tool
-
 ## Usage:
 
 ```bash
@@ -24,5 +20,8 @@ $ scr -p
 $ scr -pc
 ```
 
-Screenshots are saved to ~/screenshots, and a symlink ~/screenshots/latest.png
+Screenshots are saved to `~/screenshots`, and a symlink `~/screenshots/latest.png`
 is made whenever one is saved.
+
+Slop selections are made with [my theme](https://github.com/lyneca/dotfiles) in mind -
+a golden, translucent, bordered selection window.
